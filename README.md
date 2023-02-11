@@ -1,1 +1,1 @@
-# Capsotne-project
+# Capsotne-project in C 
